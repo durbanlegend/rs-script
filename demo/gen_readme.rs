@@ -2,7 +2,7 @@
 [dependencies]
 lazy_static = "1.4.0"
 regex = "1.10.5"
-rs-script = { git = "https://github.com/durbanlegend/rs-script" }
+rs-script = { path = "/Users/donf/projects/rs-script" }
 
 */
 
